@@ -197,5 +197,10 @@
     "versiyon": 1.0,
     "link": "http://78.47.64.78/mods/content/cars/01_ABTR_F30_330.rar",
     "hedef": "oyun"
+  },
+  "App_ABTR_Installer": {
+    "_aciklama": "ABTR Server Pack Installer",
+    "versiyon": "3.0.0.0",
+    "link": "https://github.com/CELTY28/abtr/releases/latest"
   }
 }
