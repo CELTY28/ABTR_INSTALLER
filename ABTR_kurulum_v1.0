@@ -1,7 +1,7 @@
 {  
   "App_ABTR_Installer": {
     "_aciklama": "ABTR Server Pack Installer",
-    "versiyon": "3.2",
+    "versiyon": "3.3",
     "link": "https://github.com/CELTY28/abtr/releases/download/update/ABTR_ServerPack_Installer.exe"
   },
   "Araba_TCVC_EK9": {
