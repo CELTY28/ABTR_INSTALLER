@@ -4,6 +4,67 @@
     "versiyon": "3.5",
     "link": "https://github.com/CELTY28/ABTR_INSTALLER/releases/download/update/ANGLE.BREAKERS.exe"
   },
+  "Harita_SRP_Shutoko": {
+    "_aciklama": "Shutoko Revival Project 0.9.3",
+    "versiyon": 1.0,
+    "link": "http://78.47.64.78/mods/content/tracks/SRP_0.9.3.7z",
+    "hedef": "oyun"
+  },
+  "Harita_LA_Canyons": {
+    "_aciklama": "LA Canyons Haritası",
+    "versiyon": 1.0,
+    "link": "http://78.47.64.78/mods/content/tracks/la_canyons.rar",
+    "hedef": "oyun"
+  },
+  "Harita_Akina_2022": {
+    "_aciklama": "Akina 2022 v1.1",
+    "versiyon": 1.0,
+    "link": "http://78.47.64.78/mods/content/tracks/AKINA_2022_v1.1.rar",
+    "hedef": "oyun"
+  },
+  "Harita_Brooklyn_Park": {
+    "_aciklama": "Brooklyn Park Haritası",
+    "versiyon": 1.0,
+    "link": "http://78.47.64.78/mods/content/tracks/Brooklyn_Park.7z",
+    "hedef": "oyun"
+  },
+  "Harita_EK_Tsukuba": {
+    "_aciklama": "EK Tsukuba Fruits Line v1.3",
+    "versiyon": 1.0,
+    "link": "http://78.47.64.78/mods/content/tracks/ek_tsukuba_fruits_line_v1-3.rar",
+    "hedef": "oyun"
+  },
+  "Harita_Arrabassada": {
+    "_aciklama": "Arrabassada v1.3",
+    "versiyon": 1.0,
+    "link": "http://78.47.64.78/mods/content/tracks/arrabassada_v1.3_Full.rar",
+    "hedef": "oyun"
+  },
+  "Harita_Horizon_New_Gen": {
+    "_aciklama": "Horizon New Gen",
+    "versiyon": 1.0,
+    "link": "http://78.47.64.78/mods/content/tracks/Horizon_New_Gen_1.rar",
+    "hedef": "oyun"
+  },
+  "Grafik_ABTR_Temel_Paket": {
+    "_aciklama": "ABTR Temel Kurulum (Grafik, Kamera, Apps)",
+    "versiyon": "1.0",
+    "link": "http://78.47.64.78/mods/content/ebonhealth-graphic/csp.v0.3.0-pre210%20ve%20pure%203.10%20Highres.rar",
+    "paket_temel": true,
+    "temizle_pure": true
+  },
+  "Araba_WDT_StreetPack": {
+    "_aciklama": "WDT Sokak Paketi",
+    "versiyon": 1.0,
+    "link": "https://files.acstuff.ru/shared/cczR/WDT_StreetPack_11.zip",
+    "hedef": "oyun"
+  },
+  "Araba_Trafik_Pack": {
+    "_aciklama": "Sunucu Trafik Arabaları",
+    "versiyon": 1.0,
+    "link": "http://78.47.64.78/mods/content/cars/abtr-traffic.rar",
+    "hedef": "oyun"
+  },
   "Araba_TCVC_EK9": {
     "_aciklama": "Honda Civic EK9 (TURBO)",
     "versiyon": 1.2,
@@ -82,67 +143,6 @@
     "link": "http://78.47.64.78/mods/content/cars/01_ABTR_BMW_E36.rar",
     "hedef": "oyun"
   },
-  "Araba_WDT_StreetPack": {
-    "_aciklama": "WDT Sokak Paketi",
-    "versiyon": 1.0,
-    "link": "https://files.acstuff.ru/shared/cczR/WDT_StreetPack_11.zip",
-    "hedef": "oyun"
-  },
-  "Araba_Trafik_Pack": {
-    "_aciklama": "Sunucu Trafik Arabaları",
-    "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/cars/abtr-traffic.rar",
-    "hedef": "oyun"
-  },
-  "Harita_SRP_Shutoko": {
-    "_aciklama": "Shutoko Revival Project 0.9.3",
-    "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/SRP_0.9.3.7z",
-    "hedef": "oyun"
-  },
-  "Harita_LA_Canyons": {
-    "_aciklama": "LA Canyons Haritası",
-    "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/la_canyons.rar",
-    "hedef": "oyun"
-  },
-  "Harita_Akina_2022": {
-    "_aciklama": "Akina 2022 v1.1",
-    "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/AKINA_2022_v1.1.rar",
-    "hedef": "oyun"
-  },
-  "Harita_Brooklyn_Park": {
-    "_aciklama": "Brooklyn Park Haritası",
-    "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/Brooklyn_Park.7z",
-    "hedef": "oyun"
-  },
-  "Harita_EK_Tsukuba": {
-    "_aciklama": "EK Tsukuba Fruits Line v1.3",
-    "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/ek_tsukuba_fruits_line_v1-3.rar",
-    "hedef": "oyun"
-  },
-  "Harita_Arrabassada": {
-    "_aciklama": "Arrabassada v1.3",
-    "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/arrabassada_v1.3_Full.rar",
-    "hedef": "oyun"
-  },
-  "Harita_Horizon_New_Gen": {
-    "_aciklama": "Horizon New Gen",
-    "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/Horizon_New_Gen_1.rar",
-    "hedef": "oyun"
-  },
-  "Grafik_ABTR_Temel_Paket": {
-    "_aciklama": "ABTR Temel Kurulum (Grafik, Kamera, Apps)",
-    "versiyon": "1.0",
-    "link": "http://78.47.64.78/mods/content/ebonhealth-graphic/csp.v0.3.0-pre210%20ve%20pure%203.10%20Highres.rar",
-    "paket_temel": true,
-    "temizle_pure": true
-  },
   "Araba_205GT": {
     "_aciklama": "Peugeot 205GT",
     "versiyon": 1.0,
@@ -189,12 +189,6 @@
     "_aciklama": "Dodge Charger 1968 R/T",
     "versiyon": 2.1,
     "link": "http://78.47.64.78/mods/content/cars/01_ABTR_dodge_charger_68_RT.rar",
-    "hedef": "oyun"
-  },
-  "Harita_Blackwood": {
-    "_aciklama": "Blackwood GP v1",
-    "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/ds_blackwood_v1.rar",
     "hedef": "oyun"
   },
   "Araba_F30_330": {
