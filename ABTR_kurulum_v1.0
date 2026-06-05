@@ -202,5 +202,11 @@
     "versiyon": 1.0,
     "link": "http://78.47.64.78/mods/content/cars/01_ABTR_F30_330.rar",
     "hedef": "oyun"
+  },
+  "Araba_Civic_1.6i_ES": {
+    "_aciklama": "Honda Civic 1.6i ES",
+    "versiyon": 1.0,
+    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_CVC_ES.rar",
+    "hedef": "oyun"
   }
 }
