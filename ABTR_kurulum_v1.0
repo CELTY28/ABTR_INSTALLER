@@ -1,4 +1,4 @@
-{  
+{
   "App_ABTR_Installer": {
     "_aciklama": "ABTR Server Pack Installer",
     "versiyon": "3.5",
@@ -199,6 +199,12 @@
   },
   "Araba_Civic_1.6i_ES": {
     "_aciklama": "Honda Civic 1.6i ES",
+    "versiyon": 1.0,
+    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_CVC_ES.rar",
+    "hedef": "oyun"
+  },
+  "Araba_CVC_ES": {
+    "_aciklama": "CVC ES",
     "versiyon": 1.0,
     "link": "http://78.47.64.78/mods/content/cars/01_ABTR_CVC_ES.rar",
     "hedef": "oyun"
