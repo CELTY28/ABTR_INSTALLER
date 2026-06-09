@@ -202,5 +202,11 @@
     "versiyon": 1.0,
     "link": "http://78.47.64.78/mods/content/cars/01_ABTR_CVC_ES.rar",
     "hedef": "oyun"
+  },
+ "Araba_BMW_E92": {
+    "_aciklama": "BMW M3 E92",
+    "versiyon": 1.0,
+    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_E92_M3.rar",
+    "hedef": "oyun"
   }
 }
