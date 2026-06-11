@@ -7,13 +7,13 @@
   "Harita_SRP_Shutoko": {
     "_aciklama": "Shutoko Revival Project 0.9.3",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/SRP_0.9.3.7z",
+    "link": "https://drive.google.com/file/d/1qkQQOgVFn5I7xNRXr15rxLqzivovRzev/view?usp=sharing",
     "hedef": "oyun"
   },
   "Harita_LA_Canyons": {
     "_aciklama": "LA Canyons Haritası",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/la_canyons.rar",
+    "link": "https://drive.google.com/file/d/1W_RBwJi8WoTQV3Hib7Lye0QGZD0t-uE-/view?usp=sharing",
     "hedef": "oyun"
   },
   "Harita_Akina_2022": {
@@ -25,31 +25,43 @@
   "Harita_Brooklyn_Park": {
     "_aciklama": "Brooklyn Park Haritası",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/Brooklyn_Park.7z",
+    "link": "https://drive.google.com/file/d/1oFwefUjLkCwke3Q9RZ45flRUA9PFSpPP/view?usp=sharing",
     "hedef": "oyun"
   },
   "Harita_EK_Tsukuba": {
     "_aciklama": "EK Tsukuba Fruits Line v1.3",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/ek_tsukuba_fruits_line_v1-3.rar",
+    "link": "https://drive.google.com/file/d/1D5qr_WFJsstOwX6xv5OHf8mjBdTDQmds/view?usp=sharing",
+    "hedef": "oyun"
+  },
+  "Harita_EK_Happogahara": {
+    "_aciklama": "EK Happogahara",
+    "versiyon": 1.0,
+    "link": "https://drive.google.com/file/d/1ZUKnu2JWoKdwx1ABuD-_F_8GsoYDvUxf/view?usp=sharing",
+    "hedef": "oyun"
+  },
+  "Harita_Drift_Playground": {
+    "_aciklama": "Drift Playground 2021",
+    "versiyon": 1.0,
+    "link": "https://drive.google.com/file/d/1Wx8eNBoef-H87Z93PnUZX4ktLQkk5KNo/view?usp=sharing",
     "hedef": "oyun"
   },
   "Harita_Arrabassada": {
     "_aciklama": "Arrabassada v1.3",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/arrabassada_v1.3_Full.rar",
+    "link": "https://drive.google.com/file/d/1wU-SPRyKimCO2AEdCa3Al_UpWVWN8aXD/view?usp=sharing",
     "hedef": "oyun"
   },
   "Harita_Horizon_New_Gen": {
     "_aciklama": "Horizon New Gen",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/tracks/Horizon_New_Gen_1.rar",
+    "link": "https://drive.google.com/file/d/1i-N_RPHVAgKJyzu4Xf_twwt73y_aQ59U/view?usp=sharing",
     "hedef": "oyun"
   },
   "Grafik_ABTR_Temel_Paket": {
     "_aciklama": "ABTR Temel Kurulum (Grafik, Kamera, Apps)",
     "versiyon": "1.0",
-    "link": "http://78.47.64.78/mods/content/ebonhealth-graphic/csp.v0.3.0-pre210%20ve%20pure%203.10%20Highres.rar",
+    "link": "https://drive.google.com/file/d/1XEdAAEVY58wsENDLEIjRkGUMarctlx22/view?usp=sharing",
     "paket_temel": true,
     "temizle_pure": true
   },
@@ -62,151 +74,193 @@
   "Araba_Trafik_Pack": {
     "_aciklama": "Sunucu Trafik Arabaları",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/cars/abtr-traffic.rar",
+    "link": "https://drive.google.com/file/d/1Z0clAvxOogrvp8hE9x5R4P-2OJVCOhIy/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_TCVC_EK9": {
     "_aciklama": "Honda Civic EK9 (TURBO)",
     "versiyon": 1.2,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_TCVC_EK9.rar",
+    "link": "https://drive.google.com/file/d/1PRDlMo8L_qtmttBo1QkBXP_L8-hJaBxm/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_RS3": {
     "_aciklama": "Audi RS3",
     "versiyon": 1.3,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_RS3.rar",
+    "link": "https://drive.google.com/file/d/1g-9zRKmct4mAcJmtWfkWmHLlSMg60XaF/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_CVC_EK9": {
     "_aciklama": "Honda Civic EK9 (Atmosferik)",
     "versiyon": 1.1,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_CVC_EK9.rar",
+    "link": "https://drive.google.com/file/d/1ZorlbtpB1v1FzeXh1xyRxQByqsucKl-T/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_Mercedes_190E": {
     "_aciklama": "Mercedes 190E",
     "versiyon": 1.2,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_MERCEDES_190E.rar",
+    "link": "https://drive.google.com/file/d/1_xIs9vylL1XmxKQcmQ00N1I_t93204hw/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_Golf_8R": {
     "_aciklama": "Volkswagen Golf 8R",
     "versiyon": 1.4,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_GOLF_8R.rar",
+    "link": "https://drive.google.com/file/d/1ap0UH5vGJvx82wLIbgXDyNy7fiEvq7Vu/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_BMW_E30_M50": {
     "_aciklama": "BMW E30 M50 Swap",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_BMW_E30_M50.rar",
+    "link": "https://drive.google.com/file/d/1aoUnXOiOe4tYuKHDuwLCMbQNYsv8se5Z/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_Lada_Samara": {
     "_aciklama": "Lada Samara (K20TURBO)",
     "versiyon": 1.3,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_LADA_SAMARA.rar",
+    "link": "https://drive.google.com/file/d/13z9QBQ8rFHjHkJyvgyhyAT3EJcmgrksw/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_BMW_F10_M5": {
     "_aciklama": "BMW F10 M5",
     "versiyon": 3.1,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_F10M5.rar",
+    "link": "https://drive.google.com/file/d/1j6FPHYTh9FOitx7qxntOW5ua6NM2pgC4/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_Lambo_Gallardo": {
     "_aciklama": "Lamborghini Gallardo",
     "versiyon": 2.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_GALLARDO.rar",
+    "link": "https://drive.google.com/file/d/1fOaNdwmfb2bNtykltCng-UAD_6RFDFVB/view?usp=sharing",
+    "hedef": "oyun"
+  },
+  "Araba_Lambo_Gallardo_Tandem": {
+    "_aciklama": "Lamborghini Gallardo Tandem",
+    "versiyon": 1.0,
+    "link": "https://drive.google.com/file/d/1Elryc9nSJNS2t4SwfgYbCbKTVG4PO84M/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_Honda_S2000": {
     "_aciklama": "Honda S2000",
     "versiyon": 3.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_S2000.rar",
+    "link": "https://drive.google.com/file/d/1DJM08nYnDWm-P60EjbQUPPXMc4_ZKceh/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_BMW_E34": {
     "_aciklama": "BMW E34",
     "versiyon": 3.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_BMW_E34.rar",
+    "link": "https://drive.google.com/file/d/1aCPv6K-hbb9hu1cNk_Hcd5KcbC89VqPx/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_Mercedes_W211_E55": {
     "_aciklama": "Mercedes W211 E55 AMG",
     "versiyon": 3.1,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_W211_E55AMG.rar",
+    "link": "https://drive.google.com/file/d/1uBjHEe19Ik9Qlz0LGhJe-x2G_0M5j7za/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_BMW_E36": {
     "_aciklama": "BMW E36",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_BMW_E36.rar",
+    "link": "https://drive.google.com/file/d/1VpGpENlQ6B9J4P9U1oJyEhGrztM4cbMh/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_205GT": {
     "_aciklama": "Peugeot 205GT",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_205GT.rar",
+    "link": "https://drive.google.com/file/d/11QEnwBxD0T1z3_j52_m9LPGyKxmXika5/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_A90": {
     "_aciklama": "Toyota Supra A90",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_A90.rar",
+    "link": "https://drive.google.com/file/d/1vxDNnAQY42xPWPaI1UXeo6JfId_tDQSg/view?usp=sharing",
+    "hedef": "oyun"
+  },
+  "Araba_A90_Tandem": {
+    "_aciklama": "Toyota Supra A90 Tandem",
+    "versiyon": 1.0,
+    "link": "https://drive.google.com/file/d/17tkEXcVIrDfrQrfCQqOMq81Wtkfd4R8U/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_FOCUS_ST": {
     "_aciklama": "Ford Focus ST",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_FOCUS_ST.rar",
+    "link": "https://drive.google.com/file/d/1h5mJp36hPfHFKloeN-rWSF_rhYfBaLtF/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_SAXO": {
     "_aciklama": "Citroen Saxo VTS",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_SAXO.rar",
+    "link": "https://drive.google.com/file/d/1v1meck0IuqeBVIznwp-_aF0ottO3jykl/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_SEAT_TD": {
     "_aciklama": "Seat Ibiza (STAGE 3)",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_SEAT_TD.rar",
+    "link": "https://drive.google.com/file/d/1SeFwTJRSZH26TsFaetK7WGmB4tcnpBpr/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_SHLBY_500": {
     "_aciklama": "Ford Shelby GT500",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_SHLBY_500.rar",
+    "link": "https://drive.google.com/file/d/1ojGqjv-ydwbCpy1_rNUglgu5sG05X7PU/view?usp=sharing",
+    "hedef": "oyun"
+  },
+  "Araba_SHLBY_500_Tandem": {
+    "_aciklama": "Ford Shelby GT500 Tandem",
+    "versiyon": 1.0,
+    "link": "https://drive.google.com/file/d/1aJq2K0WQa-EWqHP-GlwGoR-hOXxZ9x1l/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_charger_srt_energzd": {
     "_aciklama": "Dodge Charger SRT Energized",
     "versiyon": 3.1,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_charger_srt_energzd.rar",
+    "link": "https://drive.google.com/file/d/1HLi7vPPtcZLtA-eiobAbI0pibmoAmzkz/view?usp=sharing",
+    "hedef": "oyun"
+  },
+  "Araba_charger_srt_energzd_Tandem": {
+    "_aciklama": "Dodge Charger SRT Energized Tandem",
+    "versiyon": 1.0,
+    "link": "https://drive.google.com/file/d/1qc-PEFL_B-G13luauHwnicbcYhXa5ZwN/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_dodge_charger_68_RT": {
     "_aciklama": "Dodge Charger 1968 R/T",
     "versiyon": 2.1,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_dodge_charger_68_RT.rar",
+    "link": "https://drive.google.com/file/d/1wXoUieWos2aOrA6H5CCcBbeYuvj6q1S4/view?usp=sharing",
+    "hedef": "oyun"
+  },
+  "Araba_dodge_charger_68_RT_Tandem": {
+    "_aciklama": "Dodge Charger 1968 R/T Tandem",
+    "versiyon": 2.1,
+    "link": "https://drive.google.com/file/d/1dc1X0zV26VoLTXNWcQUAeUf6KP-FUhmu/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_F30_330": {
     "_aciklama": "BMW F30 330i (STAGE 3)",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_F30_330.rar",
+    "link": "https://drive.google.com/file/d/1Gtd-na3Aox7ylRuQWkmH-7biMg5Emng1/view?usp=sharing",
+    "hedef": "oyun"
+  },
+  "Araba_F30_330_Tandem": {
+    "_aciklama": "BMW F30 330i (STAGE 3) Tandem",
+    "versiyon": 1.0,
+    "link": "https://drive.google.com/file/d/1w9v6UukNuX8xPdjC63qVogdqX3y4QJvg/view?usp=sharing",
     "hedef": "oyun"
   },
   "Araba_Civic_1.6i_ES": {
     "_aciklama": "Honda Civic 1.6i ES",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_CVC_ES.rar",
+    "link": "https://drive.google.com/file/d/1S3IPzbz6nA1Y0oFfDABGJzGwoq0o8eDp/view?usp=sharing",
     "hedef": "oyun"
   },
  "Araba_BMW_E92": {
     "_aciklama": "BMW M3 E92",
     "versiyon": 1.0,
-    "link": "http://78.47.64.78/mods/content/cars/01_ABTR_E92_M3.rar",
+    "link": "https://drive.google.com/file/d/1LCSLAGWEvk91AcxurnVWbESe8zdndjUO/view?usp=sharing",
+    "hedef": "oyun"
+  },
+ "Araba_BMW_E92_Tandem": {
+    "_aciklama": "BMW M3 E92 Tandem",
+    "versiyon": 1.0,
+    "link": "https://drive.google.com/file/d/1MrihA31oKxLznsNIV7yorzvsZt1R2LXY/view?usp=sharing",
     "hedef": "oyun"
   }
 }
