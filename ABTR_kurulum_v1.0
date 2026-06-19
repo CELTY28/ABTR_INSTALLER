@@ -262,5 +262,17 @@
     "versiyon": 1.0,
     "link": "https://dl.angle-breakers.com/AngleBreakers/Tandem-Cars/01_ABTR_E92_M3_TANDEM.rar",
     "hedef": "oyun"
+  },
+ "Araba_Nissan_350Z": {
+    "_aciklama": "Nissan 350Z",
+    "versiyon": 1.0,
+    "link": "",
+    "hedef": "oyun"
+  },
+ "Araba_Nissan_350Z_Tandem": {
+    "_aciklama": "Nissan 350Z Tandem",
+    "versiyon": 2.0,
+    "link": "https://dl.angle-breakers.com/AngleBreakers/Tandem-Cars/01_ABTR_350Z_TANDEM.rar",
+    "hedef": "oyun"
   }
 }
