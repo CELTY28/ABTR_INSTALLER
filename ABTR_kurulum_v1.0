@@ -125,6 +125,12 @@
     "link": "https://dl.angle-breakers.com/AngleBreakers/Cars/01_ABTR_F10M5.rar",
     "hedef": "oyun"
   },
+  "Araba_BMW_F10_M5_Tandem": {
+    "_aciklama": "BMW F10 M5 Tandem",
+    "versiyon": 2.0,
+    "link": "https://dl.angle-breakers.com/AngleBreakers/Tandem-Cars/01_ABTR_F10_TANDEM.rar",
+    "hedef": "oyun"
+  },
   "Araba_Lambo_Gallardo": {
     "_aciklama": "Lamborghini Gallardo",
     "versiyon": 2.0,
