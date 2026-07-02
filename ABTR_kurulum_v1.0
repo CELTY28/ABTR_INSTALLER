@@ -280,5 +280,17 @@
     "versiyon": 2.0,
     "link": "https://dl.angle-breakers.com/AngleBreakers/Tandem-Cars/01_ABTR_350Z_TANDEM.rar",
     "hedef": "oyun"
+  },
+ "Araba_Nissan_S14": {
+    "_aciklama": "Nissan S14",
+    "versiyon": 5.0,
+    "link": "https://dl.angle-breakers.com/AngleBreakers/Cars/01_ABTR_S14.rar",
+    "hedef": "oyun"
+  },
+ "Araba_Nissan_S14_Tandem": {
+    "_aciklama": "Nissan S14 Tandem",
+    "versiyon": 2.0,
+    "link": "https://dl.angle-breakers.com/AngleBreakers/Tandem-Cars/01_ABTR_S14_TANDEM.rar",
+    "hedef": "oyun"
   }
 }
