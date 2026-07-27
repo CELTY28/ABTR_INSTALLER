@@ -58,6 +58,12 @@
     "link": "https://dl.angle-breakers.com/AngleBreakers/Track/Horizon_New_Gen_1.rar",
     "hedef": "oyun"
   },
+  "Harita_Hamburg": {
+    "_aciklama": "Hamburg",
+    "versiyon": 1.0,
+    "link": "https://dl.angle-breakers.com/AngleBreakers/Track/Hamburg_by_4r.rar",
+    "hedef": "oyun"
+  },
   "Grafik_ABTR_Temel_Paket": {
     "_aciklama": "ABTR Temel Kurulum (Grafik, Kamera, Apps)",
     "versiyon": "1.0",
