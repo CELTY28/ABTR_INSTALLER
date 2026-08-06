@@ -298,5 +298,17 @@
     "versiyon": 2.0,
     "link": "https://dl.angle-breakers.com/AngleBreakers/Tandem-Cars/01_ABTR_S14_TANDEM.rar",
     "hedef": "oyun"
+  },
+ "Araba_BMW_E60": {
+    "_aciklama": "BMW E60",
+    "versiyon": 5.0,
+    "link": "https://dl.angle-breakers.com/AngleBreakers/Cars/01_ABTR_E60_M5.rar",
+    "hedef": "oyun"
+  },
+ "Araba_Mercedes_CLS_63S": {
+    "_aciklama": "Mercedes CLS 63S",
+    "versiyon": 2.0,
+    "link": "https://dl.angle-breakers.com/AngleBreakers/Cars/01_ABTR_CLS_63S.rarr",
+    "hedef": "oyun"
   }
 }
